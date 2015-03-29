@@ -1,0 +1,487 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"m",
+				"meta	Tag"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/express.js",
+			"settings":
+			{
+				"buffer_size": 4445,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 829,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/articles.server.controller.js",
+			"settings":
+			{
+				"buffer_size": 2237,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/modules/core/services/socket.js",
+			"settings":
+			{
+				"buffer_size": 288,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/layout.server.view.html",
+			"settings":
+			{
+				"buffer_size": 2574,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/config.js",
+			"settings":
+			{
+				"buffer_size": 853,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/modules/articles/controllers/articles.client.controller.js",
+			"settings":
+			{
+				"buffer_size": 1458,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/modules/articles/services/articles.client.service.js",
+			"settings":
+			{
+				"buffer_size": 294,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Alexandre/Minecraft/ATLauncher/Instances/DNSTechpack/config/Thaumcraft.cfg",
+		"/C/Users/Alexandre/Minecraft/ATLauncher/Instances/DNSTechpack/mods/forestry_1.7.10-3.4.0.7.jar",
+		"/C/Users/Alexandre/Programmation/socket-meanjs/config/env/all.js",
+		"/C/Users/Alexandre/Programmation/socket-meanjs/bower.json",
+		"/C/Users/Alexandre/Programmation/socket-meanjs/app/controllers/core.server.controller.js",
+		"/C/Users/Alexandre/Programmation/lets-code/config/express.js",
+		"/C/Users/Alexandre/Programmation/lets-code/server.js",
+		"/C/Users/Alexandre/Programmation/lets-code/public/modules/chats/views/edit-chat.client.view.html",
+		"/C/Users/Alexandre/Programmation/lets-code/public/modules/chats/css/chat.css",
+		"/C/Users/Alexandre/Programmation/lets-code/public/modules/chats/services/chats.client.service.js",
+		"/C/Users/Alexandre/Programmation/lets-code/public/modules/chats/controllers/chats.client.controller.js",
+		"/C/Users/Alexandre/Programmation/lets-code/app/controllers/chats.server.controller.js",
+		"/C/Users/Alexandre/Programmation/lets-code/app/models/chat.server.model.js",
+		"/C/Users/Alexandre/Programmation/lets-code/app/routes/chats.server.routes.js",
+		"/C/Users/Alexandre/Programmation/lets-code/public/modules/chats/views/list-chats.client.view.html",
+		"/C/Users/Alexandre/Programmation/lets-code/config/env/all.js",
+		"/C/Users/Alexandre/Programmation/lets-code/public/modules/chats/views/create-chat.client.view.html",
+		"/C/Users/Alexandre/Programmation/lets-code/public/modules/core/views/home.client.view.html",
+		"/C/Users/Alexandre/Programmation/lets-code/app/models/user.server.model.js",
+		"/C/Users/Alexandre/Programmation/lets-code/public/modules/chats/tests/chats.client.controller.test.js",
+		"/C/Users/Alexandre/Programmation/lets-code/public/modules/chats/config/chats.client.config.js",
+		"/C/Users/Alexandre/Programmation/lets-code/app/controllers/users/users.profile.server.controller.js",
+		"/C/Users/Alexandre/Programmation/lets-code/public/modules/users/views/authentication/signin.client.view.html",
+		"/C/Users/Alexandre/Programmation/lets-code/app/views/layout.server.view.html",
+		"/C/Users/Alexandre/Programmation/lets-code/app/controllers/core.server.controller.js",
+		"/C/Users/Alexandre/Programmation/lets-code/public/modules/core/views/header.client.view.html",
+		"/C/Users/Alexandre/Programmation/lets-code/public/modules/users/controllers/authentication.client.controller.js",
+		"/C/Users/Alexandre/Programmation/lets-code/public/modules/users/views/authentication/signup.client.view.html",
+		"/C/Users/Alexandre/Programmation/lets-code/public/modules/users/css/users.css",
+		"/C/Users/Utilisateur/Programmation/meanjs-test/app/routes/articles.server.routes.js",
+		"/C/Users/Utilisateur/Programmation/meanjs-test/public/modules/core/controllers/home.client.controller.js",
+		"/C/Users/Utilisateur/Programmation/meanjs-test/app/views/layout.server.view.html",
+		"/C/Users/Utilisateur/Programmation/meanjs-test/server.js",
+		"/C/Users/Utilisateur/Programmation/meanjs-test/public/modules/core/views/home.client.view.html",
+		"/C/Users/Utilisateur/Programmation/meanjs-test/public/modules/core/views/header.client.view.html",
+		"/C/Users/Utilisateur/Programmation/meanjs-test/config/passport.js",
+		"/C/Users/Utilisateur/Programmation/meanjs-test/public/humans.txt",
+		"/C/Users/Utilisateur/Programmation/meanjs-test/public/robots.txt",
+		"/C/Users/Utilisateur/Programmation/lets-code/common/public/css/style.css",
+		"/C/Users/Utilisateur/Programmation/lets-code/authentification/login.js",
+		"/C/Users/Utilisateur/Programmation/lets-code/authentification/login.html",
+		"/C/Users/Utilisateur/Programmation/lets-code/home_page/index.html",
+		"/C/Users/Utilisateur/Programmation/lets-code/app.js",
+		"/C/Users/Utilisateur/Programmation/lets-code/.gitignore",
+		"/C/Users/Utilisateur/Programmation/lets-code/home_page/.gitignore",
+		"/C/Users/Utilisateur/Programmation/lets-code/package.json",
+		"/C/Users/Utilisateur/Programmation/lets-code/index.html",
+		"/C/Users/Utilisateur/Programmation/lets-code/lets-code.sublime-workspace",
+		"/C/Users/Utilisateur/Programmation/lets-code/README.md",
+		"/C/minecraft/FTB/Monster/minecraft/saves/bla/players/kriso77722.dat"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\">\n",
+			"user",
+			"hasAuthorization",
+			"username",
+			",\n",
+			"\">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/express.js",
+					"settings":
+					{
+						"buffer_size": 4445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4365,
+								4365
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "server.js",
+					"settings":
+					{
+						"buffer_size": 829,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								689,
+								689
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/controllers/articles.server.controller.js",
+					"settings":
+					{
+						"buffer_size": 2237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								571,
+								571
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/modules/core/services/socket.js",
+					"settings":
+					{
+						"buffer_size": 288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								231
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/layout.server.view.html",
+					"settings":
+					{
+						"buffer_size": 2574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2510,
+								2510
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 30.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "public/config.js",
+					"settings":
+					{
+						"buffer_size": 853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								378,
+								378
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "public/modules/articles/controllers/articles.client.controller.js",
+					"settings":
+					{
+						"buffer_size": 1458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								116,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "public/modules/articles/services/articles.client.service.js",
+					"settings":
+					{
+						"buffer_size": 294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								238,
+								238
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 331.0,
+	"status_bar_visible": true
+}
